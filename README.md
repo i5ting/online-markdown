@@ -2,6 +2,8 @@
 
 > wom: an offline markdown dditor for Wechat MP
 
+![](preview.png)
+
 ## Install
 
 ```
