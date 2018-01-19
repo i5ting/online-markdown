@@ -1,6 +1,6 @@
 # Wom
 
-> wom: an offline markdown dditor for Wechat MP
+> wom: an offline markdown editor for Wechat MP
 
 ![](preview.png)
 
