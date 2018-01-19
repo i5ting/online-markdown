@@ -1,12 +1,13 @@
 {
   "name": "wom",
   "version": "1.0.1",
-  "description": "Wechat online markdown editor",
-  "main": "index.js",
+  "description": "an offline Markdown Editor for Wechat MP",
+  "main": "wom.js",
   "bin": {
     "wom": "wom.js"
   },
   "scripts": {
+    "start": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

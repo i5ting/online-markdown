@@ -1,6 +1,6 @@
-# Wechat Online Markdown Editor
+# Wom
 
-> wom: a Markdown Editor for Wechat MP
+> wom: an offline Markdown Editor for Wechat MP
 
 ## Install
 
