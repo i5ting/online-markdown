@@ -13,6 +13,11 @@
     "type": "git",
     "url": "https://github.com/barretlee/online-markdown.git"
   },
+  "files": [
+    "docs",
+    "wom.js",
+    "README.md"
+  ],
   "keywords": [
     "wechat",
     "markdown",
