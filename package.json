@@ -1,8 +1,11 @@
 {
-  "name": "online-markdown",
+  "name": "wom",
   "version": "1.0.0",
-  "description": "A online markdown converter specially for Wechat Public formatting.",
+  "description": "Wechat online markdown editor",
   "main": "index.js",
+  "bin": {
+    "wom": "wom.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,9 +25,12 @@
   },
   "homepage": "https://github.com/barretlee/online-markdown",
   "dependencies": {
-    "copy-webpack-plugin": "~4.0.1"
+    "finalhandler": "^1.1.0",
+    "opn": "^5.2.0",
+    "serve-static": "^1.13.1"
   },
   "devDependencies": {
+    "copy-webpack-plugin": "~4.0.1",
     "css-loader": "^0.26.1",
     "file-loader": "^0.10.0",
     "jsx-loader": "^0.13.2",
