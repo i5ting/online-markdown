@@ -1,7 +1,7 @@
 {
   "name": "wom",
   "version": "1.0.1",
-  "description": "an offline Markdown Editor for Wechat MP",
+  "description": "an offline markdown dditor for Wechat MP",
   "main": "wom.js",
   "bin": {
     "wom": "wom.js"
