@@ -1,9 +1,20 @@
-# Online Markdown Converter
+# Wechat Online Markdown Editor
 
-A online markdown converter specially for Wechat Public formatting.
 
-- Online Address: <http://md.barretlee.com/>
-- Issue & Suggestion: <https://github.com/barretlee/online-markdown/issues/new>
+## Install
+
+```
+$ npm i -g wom
+```
+
+## Usages
+
+```
+$ wom
+```
+
+http://127.0.0.1:4002/
+
 
 ### Changelog
 
@@ -13,3 +24,4 @@ A online markdown converter specially for Wechat Public formatting.
 ### LICENSE
 
 MIT. Thanks for @Phodal.
+MIT. Thanks for @barretlee.
