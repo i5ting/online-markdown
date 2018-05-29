@@ -32,7 +32,8 @@
   "homepage": "https://github.com/i5ting/wom",
   "dependencies": {
     "finalhandler": "^1.1.0",
-    "opn": "^5.2.0",
+    "is-wsl": "^1.1.0",
+    "opn": "^5.3.0",
     "serve-static": "^1.13.1"
   },
   "devDependencies": {
